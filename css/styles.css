@@ -1,0 +1,159 @@
+/****************************TAG SELECTORS***************************/
+body{
+  text-align: center;
+  line-height: 2;
+  font-family: 'Signika Negative', sans-serif;
+  font-size: 2em;
+  margin: 0;
+
+}
+h1{
+  font-family: 'Sofia', cursive;
+  font-size: 6.25rem;
+  margin-top: 0;
+  color: #B041FF;
+
+}
+h2{
+  font-family: 'Noto Serif', serif;
+  font-size: 2.5rem;
+  color: #B041FF;
+}
+h3{
+  font-family: 'Ibarra Real Nova', serif;
+  font-size: 1.9rem;
+  color: #A66CFF;
+
+}
+hr{
+  border-style: dotted;
+  border-bottom: none;
+  border-width: 6px;
+  width: 20%;
+  color: #B041FF;
+  margin: 100px auto;
+
+}
+a{
+  color: #B041FF;
+}
+a:hover{
+  color: white;
+}
+
+
+
+/******************************CLASS SELECTORS****************************/
+.top-container{
+  margin-top: 0;
+  background-color: #B2A4FF;
+
+
+}
+.middle-container{
+  width: 50%;
+  position: relative;
+  left:300px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 200px;
+
+}
+.top-cloud{
+  position:absolute;
+  top: 100px;
+  right: 200px;
+}
+.otobong-profile{
+  border-radius: 30%;
+  margin: 50px auto 20px auto;
+
+
+}
+.webdev{
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  float: left;
+  margin-right: 20px;
+}
+.digital-marketing{
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  float: right;
+  margin-left: 20px;
+}
+.skill-row{
+  text-align: left;
+}
+.dove-one{
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 150px;
+  right: 200px;
+}
+.dove-two{
+  height: 100px;
+  width: 100px;
+  position: relative;
+  top: 30px;
+  left: 200px;
+
+}
+.dove-three{
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  left: 100px;
+  top: 300px;
+}
+.dove-four{
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 200px;
+  left: 200px;
+}
+.bottom-container{
+  background-color: #B2A4FF;
+  margin: 100px 0 0;
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+.btn {
+  background: #A66CFF;
+  background-image: -webkit-linear-gradient(top, #A66CFF, #9100f2);
+  background-image: -moz-linear-gradient(top, #A66CFF, #9100f2);
+  background-image: -ms-linear-gradient(top, #A66CFF, #9100f2);
+  background-image: -o-linear-gradient(top, #A66CFF, #9100f2);
+  background-image: linear-gradient(to bottom, #A66CFF, #9100f2);
+  -webkit-border-radius: 56;
+  -moz-border-radius: 56;
+  border-radius: 56px;
+  font-family: 'Signika Negative', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 14px 16px 16px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #ac5bf7;
+  text-decoration: none;
+}
+.footer-link{
+  margin: 0 20px 0 20px;
+}
+.copyright{
+  font-size: 10px;
+  color: white;
+}
+
+.explore{
+  margin-bottom: 200px;
+}
